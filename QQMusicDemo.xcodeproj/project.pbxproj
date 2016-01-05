@@ -88,6 +88,14 @@
 		045ABB781C3B8B4F00ACF252 /* NSObject+MJKeyValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB6B1C3B8B4F00ACF252 /* NSObject+MJKeyValue.m */; settings = {ASSET_TAGS = (); }; };
 		045ABB791C3B8B4F00ACF252 /* NSObject+MJProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB6D1C3B8B4F00ACF252 /* NSObject+MJProperty.m */; settings = {ASSET_TAGS = (); }; };
 		045ABB7A1C3B8B4F00ACF252 /* NSString+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB6F1C3B8B4F00ACF252 /* NSString+MJExtension.m */; settings = {ASSET_TAGS = (); }; };
+		045ABB7E1C3B90AE00ACF252 /* XBPlayMusicController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB7C1C3B90AE00ACF252 /* XBPlayMusicController.m */; settings = {ASSET_TAGS = (); }; };
+		045ABB7F1C3B90AE00ACF252 /* XBPlayMusicController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 045ABB7D1C3B90AE00ACF252 /* XBPlayMusicController.xib */; settings = {ASSET_TAGS = (); }; };
+		045ABB821C3B943D00ACF252 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB811C3B943D00ACF252 /* UIView+Frame.m */; settings = {ASSET_TAGS = (); }; };
+		045ABB861C3B964300ACF252 /* XBPlayMusicTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB851C3B964300ACF252 /* XBPlayMusicTool.m */; settings = {ASSET_TAGS = (); }; };
+		045ABB9C1C3BA53300ACF252 /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB951C3BA53300ACF252 /* SVIndefiniteAnimatedView.m */; settings = {ASSET_TAGS = (); }; };
+		045ABB9D1C3BA53300ACF252 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 045ABB971C3BA53300ACF252 /* SVProgressHUD.bundle */; settings = {ASSET_TAGS = (); }; };
+		045ABB9E1C3BA53300ACF252 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB991C3BA53300ACF252 /* SVProgressHUD.m */; settings = {ASSET_TAGS = (); }; };
+		045ABB9F1C3BA53300ACF252 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 045ABB9B1C3BA53300ACF252 /* SVRadialGradientLayer.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -190,6 +198,21 @@
 		045ABB6D1C3B8B4F00ACF252 /* NSObject+MJProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJProperty.m"; sourceTree = "<group>"; };
 		045ABB6E1C3B8B4F00ACF252 /* NSString+MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MJExtension.h"; sourceTree = "<group>"; };
 		045ABB6F1C3B8B4F00ACF252 /* NSString+MJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MJExtension.m"; sourceTree = "<group>"; };
+		045ABB7B1C3B90AE00ACF252 /* XBPlayMusicController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XBPlayMusicController.h; sourceTree = "<group>"; };
+		045ABB7C1C3B90AE00ACF252 /* XBPlayMusicController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XBPlayMusicController.m; sourceTree = "<group>"; };
+		045ABB7D1C3B90AE00ACF252 /* XBPlayMusicController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = XBPlayMusicController.xib; sourceTree = "<group>"; };
+		045ABB801C3B943D00ACF252 /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		045ABB811C3B943D00ACF252 /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
+		045ABB841C3B964300ACF252 /* XBPlayMusicTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XBPlayMusicTool.h; sourceTree = "<group>"; };
+		045ABB851C3B964300ACF252 /* XBPlayMusicTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XBPlayMusicTool.m; sourceTree = "<group>"; };
+		045ABB941C3BA53300ACF252 /* SVIndefiniteAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVIndefiniteAnimatedView.h; sourceTree = "<group>"; };
+		045ABB951C3BA53300ACF252 /* SVIndefiniteAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVIndefiniteAnimatedView.m; sourceTree = "<group>"; };
+		045ABB961C3BA53300ACF252 /* SVProgressHUD-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD-Prefix.pch"; sourceTree = "<group>"; };
+		045ABB971C3BA53300ACF252 /* SVProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SVProgressHUD.bundle; sourceTree = "<group>"; };
+		045ABB981C3BA53300ACF252 /* SVProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVProgressHUD.h; sourceTree = "<group>"; };
+		045ABB991C3BA53300ACF252 /* SVProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVProgressHUD.m; sourceTree = "<group>"; };
+		045ABB9A1C3BA53300ACF252 /* SVRadialGradientLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVRadialGradientLayer.h; sourceTree = "<group>"; };
+		045ABB9B1C3BA53300ACF252 /* SVRadialGradientLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVRadialGradientLayer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,6 +269,7 @@
 		045ABAC41C3B880000ACF252 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				045ABB831C3B963700ACF252 /* Tools */,
 				045ABAC51C3B880000ACF252 /* Category */,
 				045ABAC61C3B880000ACF252 /* Controller */,
 				045ABAC91C3B880000ACF252 /* Lib */,
@@ -259,6 +283,8 @@
 		045ABAC51C3B880000ACF252 /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				045ABB801C3B943D00ACF252 /* UIView+Frame.h */,
+				045ABB811C3B943D00ACF252 /* UIView+Frame.m */,
 			);
 			path = Category;
 			sourceTree = "<group>";
@@ -268,6 +294,9 @@
 			children = (
 				045ABAC71C3B880000ACF252 /* ViewController.h */,
 				045ABAC81C3B880000ACF252 /* ViewController.m */,
+				045ABB7B1C3B90AE00ACF252 /* XBPlayMusicController.h */,
+				045ABB7C1C3B90AE00ACF252 /* XBPlayMusicController.m */,
+				045ABB7D1C3B90AE00ACF252 /* XBPlayMusicController.xib */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -275,6 +304,7 @@
 		045ABAC91C3B880000ACF252 /* Lib */ = {
 			isa = PBXGroup;
 			children = (
+				045ABB931C3BA53300ACF252 /* SVProgressHUD */,
 				045ABB581C3B8B4F00ACF252 /* MJExtension */,
 			);
 			path = Lib;
@@ -420,6 +450,30 @@
 			path = MJExtension;
 			sourceTree = "<group>";
 		};
+		045ABB831C3B963700ACF252 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				045ABB841C3B964300ACF252 /* XBPlayMusicTool.h */,
+				045ABB851C3B964300ACF252 /* XBPlayMusicTool.m */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		045ABB931C3BA53300ACF252 /* SVProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				045ABB941C3BA53300ACF252 /* SVIndefiniteAnimatedView.h */,
+				045ABB951C3BA53300ACF252 /* SVIndefiniteAnimatedView.m */,
+				045ABB961C3BA53300ACF252 /* SVProgressHUD-Prefix.pch */,
+				045ABB971C3BA53300ACF252 /* SVProgressHUD.bundle */,
+				045ABB981C3BA53300ACF252 /* SVProgressHUD.h */,
+				045ABB991C3BA53300ACF252 /* SVProgressHUD.m */,
+				045ABB9A1C3BA53300ACF252 /* SVRadialGradientLayer.h */,
+				045ABB9B1C3BA53300ACF252 /* SVRadialGradientLayer.m */,
+			);
+			path = SVProgressHUD;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -479,6 +533,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				045ABB4A1C3B89CD00ACF252 /* 255319.mp3 in Resources */,
+				045ABB7F1C3B90AE00ACF252 /* XBPlayMusicController.xib in Resources */,
 				045ABB501C3B89CD00ACF252 /* 张信哲 - 爱如潮水.mp3 in Resources */,
 				045ABB171C3B89CD00ACF252 /* 123.jpg in Resources */,
 				045ABB531C3B89CD00ACF252 /* 贾乃亮,甜馨 - 大王叫我来巡山.mp3 in Resources */,
@@ -530,6 +585,7 @@
 				045ABB291C3B89CD00ACF252 /* tanweiwei_icon.jpg in Resources */,
 				045ABB361C3B89CD00ACF252 /* 14945107.lrc in Resources */,
 				045ABB1E1C3B89CD00ACF252 /* jay@2x.jpg in Resources */,
+				045ABB9D1C3BA53300ACF252 /* SVProgressHUD.bundle in Resources */,
 				045ABB2C1C3B89CD00ACF252 /* wf@2x.jpg in Resources */,
 				045ABB381C3B89CD00ACF252 /* 255319.lrc in Resources */,
 				045ABB341C3B89CD00ACF252 /* 120125029.lrc in Resources */,
@@ -559,16 +615,22 @@
 				045ABAD21C3B880000ACF252 /* main.m in Sources */,
 				045ABB731C3B8B4F00ACF252 /* MJProperty.m in Sources */,
 				045ABB751C3B8B4F00ACF252 /* MJPropertyType.m in Sources */,
+				045ABB7E1C3B90AE00ACF252 /* XBPlayMusicController.m in Sources */,
 				045ABAD01C3B880000ACF252 /* ViewController.m in Sources */,
 				045ABB791C3B8B4F00ACF252 /* NSObject+MJProperty.m in Sources */,
 				045ABB7A1C3B8B4F00ACF252 /* NSString+MJExtension.m in Sources */,
 				045ABB771C3B8B4F00ACF252 /* NSObject+MJCoding.m in Sources */,
 				045ABAD51C3B889200ACF252 /* XBMusicCell.m in Sources */,
+				045ABB821C3B943D00ACF252 /* UIView+Frame.m in Sources */,
+				045ABB861C3B964300ACF252 /* XBPlayMusicTool.m in Sources */,
 				045ABB741C3B8B4F00ACF252 /* MJPropertyKey.m in Sources */,
+				045ABB9C1C3BA53300ACF252 /* SVIndefiniteAnimatedView.m in Sources */,
 				045ABB781C3B8B4F00ACF252 /* NSObject+MJKeyValue.m in Sources */,
+				045ABB9E1C3BA53300ACF252 /* SVProgressHUD.m in Sources */,
 				045ABB761C3B8B4F00ACF252 /* NSObject+MJClass.m in Sources */,
 				045ABB701C3B8B4F00ACF252 /* MJDictionaryCache.m in Sources */,
 				045ABB721C3B8B4F00ACF252 /* MJFoundation.m in Sources */,
+				045ABB9F1C3BA53300ACF252 /* SVRadialGradientLayer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
